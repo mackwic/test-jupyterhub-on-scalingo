@@ -1,1 +1,5 @@
+venvnode_modules/
 venv
+node_modules
+*_secret
+*.sqlite

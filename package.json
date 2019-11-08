@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mackwic/test-jupyterhub-on-scalingo/issues"
   },
-  "homepage": "https://github.com/mackwic/test-jupyterhub-on-scalingo#readme"
+  "homepage": "https://github.com/mackwic/test-jupyterhub-on-scalingo#readme",
+  "dependencies": {
+    "configurable-http-proxy": "^4.1.0"
+  }
 }
