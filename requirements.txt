@@ -9,7 +9,7 @@ decorator==4.4.1
 entrypoints==0.3
 idna==2.8
 ipython-genutils==0.2.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 jupyterhub==1.0.0
 Mako==1.1.0
 MarkupSafe==1.1.1
